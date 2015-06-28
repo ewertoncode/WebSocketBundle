@@ -292,6 +292,9 @@ class AcmeTopic implements TopicInterface
 }
 ```
 
+> 
+Note: You should add in your service.yml the Service Id: gos_web_socket.client_storage
+
 ## Send a message to a specific user
 
 ```php
